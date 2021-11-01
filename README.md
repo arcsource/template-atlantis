@@ -1,6 +1,7 @@
 # Atlantis-Lite
 
-> Archived and copied from the [Atlantis Lite - Bootstrap 4 Admin Dashboard](https://themehunt.com/item/1527584-atlantis-lite-bootstrap-4-admin-dashboard) on themehunt.com.
+> Archived and copied from the [Atlantis Lite - Bootstrap 4 Admin Dashboard](https://themehunt.com/item/1527584-atlantis-lite-bootstrap-4-admin-dashboard) on themehunt.com.  
+> This codebase is meant to be used for CSS and web design reference and study purposes only.
 
 ![](http://themekita.com/assets/images/atlantislite.png)
 
